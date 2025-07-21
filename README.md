@@ -5,6 +5,3 @@ Valkirye è un videogioco platform 2D, sviluppato con Unity.
 Il giocatore controlla un personaggio che deve superare livelli pieni di ostacoli e nemici, raccogliendo monete e vite, cercando di raggiungere la fine del percorso e sconfiggere il boss finale di ogni livello.
 
 Una demo del gioco è disponibile qui: [Link al video YouTube](https://youtu.be/DEueb4vYmxo?si=Q24-PlSx6VaPTP6W)  
-
-## Autore
-[Gaglione Giulia](https://github.com/giug2)  
